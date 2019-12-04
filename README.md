@@ -5,7 +5,7 @@ This repository contains the most frequently technical words what a programmer c
 
 ## C
 
-- *[Concurrency](https://www.toptal.com/software/introduction-to-concurrent-programming)*: Concurrency, is the ability for a program to be decomposed into parts that can run independently of each other. This means that tasks can be executed out of order and the result would still be the same as if they are executed in order.
+- *[Concurrency](https://www.toptal.com/software/introduction-to-concurrent-programming)*: Is the ability for a program to be decomposed into parts that can run independently of each other. This means that tasks can be executed out of order and the result would still be the same as if they are executed in order.
 
 ## H
 
