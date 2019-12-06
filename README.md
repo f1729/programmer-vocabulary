@@ -3,6 +3,10 @@
 Sometime you were with other programmers and you did can't understand some words they said?
 This repository contains the most frequently technical words what a programmer can said.
 
+## B
+
+- *[Bug](https://en.wikipedia.org/wiki/Software_bug)*: is an error, flaw or fault in a computer program or system that causes it to produce an incorrect or unexpected result, or to behave in unintended ways.
+
 ## C
 
 - *[Concurrency](https://www.toptal.com/software/introduction-to-concurrent-programming)*: Is the ability for a program to be decomposed into parts that can run independently of each other. This means that tasks can be executed out of order and the result would still be the same as if they are executed in order.
