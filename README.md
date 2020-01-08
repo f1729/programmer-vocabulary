@@ -23,6 +23,10 @@ using the same representation. This property is often summarized by saying that 
 
 - *[Refactoring](https://refactoring.com/)*: is a discipline technique for restructuring and existing body of code, alterning its internal structure without changing its external behavior. The basic purpose of code refactoring is to make the code more efficient and maintainable.
 
+## T
+
+- *[Typo](https://en.wikipedia.org/wiki/Typographical_error)*: A typographical error (often shortened to typo)
+
 ## W
 
 - *[Webhook](https://codeburst.io/what-are-webhooks-b04ec2bf9ca2)*: Web hooks provide a mechanism where by a server-side application can notify a client-side application when a new event (that the client-side application might be interested in) has occurred on the server.
