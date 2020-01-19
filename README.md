@@ -15,6 +15,10 @@ just by reading the program itself. For example, a Lisp program is written as a 
 and can be manipulated by other Lisp code. In homoiconic languages, all code can be accessed and transformed as data, 
 using the same representation. This property is often summarized by saying that the language treats "code as data".
 
+## P
+
+- *[Polyfill](https://remysharp.com/2010/10/08/what-is-a-polyfill)*: A polyfill, or polyfiller, is a piece of code (or plugin) that provides the technology that you, the developer, expect the browser to provide natively. Flattening the API landscape if you will.
+
 ## W
 
 - *[Webhook](https://codeburst.io/what-are-webhooks-b04ec2bf9ca2)*: Web hooks provide a mechanism where by a server-side application can notify a client-side application when a new event (that the client-side application might be interested in) has occurred on the server.
