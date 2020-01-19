@@ -19,6 +19,10 @@ just by reading the program itself. For example, a Lisp program is written as a 
 and can be manipulated by other Lisp code. In homoiconic languages, all code can be accessed and transformed as data, 
 using the same representation. This property is often summarized by saying that the language treats "code as data".
 
+## P
+
+- *[Polyfill](https://remysharp.com/2010/10/08/what-is-a-polyfill)*: A polyfill, or polyfiller, is a piece of code (or plugin) that provides the technology that you, the developer, expect the browser to provide natively. Flattening the API landscape if you will.
+
 ## R
 
 - *[Refactoring](https://refactoring.com/)*: is a discipline technique for restructuring and existing body of code, alterning its internal structure without changing its external behavior. The basic purpose of code refactoring is to make the code more efficient and maintainable.
