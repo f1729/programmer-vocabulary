@@ -3,6 +3,10 @@
 Sometime you were with other programmers and you did can't understand some words they said?
 This repository contains the most frequently technical words what a programmer can said.
 
+## B
+
+- *[Bug](https://en.wikipedia.org/wiki/Software_bug)*: is an error, flaw or fault in a computer program or system that causes it to produce an incorrect or unexpected result, or to behave in unintended ways.
+
 ## C
 
 - *[Concurrency](https://www.toptal.com/software/introduction-to-concurrent-programming)*: Is the ability for a program to be decomposed into parts that can run independently of each other. This means that tasks can be executed out of order and the result would still be the same as if they are executed in order.
@@ -18,6 +22,10 @@ using the same representation. This property is often summarized by saying that 
 ## P
 
 - *[Polyfill](https://remysharp.com/2010/10/08/what-is-a-polyfill)*: A polyfill, or polyfiller, is a piece of code (or plugin) that provides the technology that you, the developer, expect the browser to provide natively. Flattening the API landscape if you will.
+
+## R
+
+- *[Refactoring](https://refactoring.com/)*: is a discipline technique for restructuring and existing body of code, alterning its internal structure without changing its external behavior. The basic purpose of code refactoring is to make the code more efficient and maintainable.
 
 ## W
 
