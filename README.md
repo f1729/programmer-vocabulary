@@ -1,6 +1,6 @@
 # Programmer Vocabulary
 
-Sometime you were with other programmers and you did can't understand some words they said?
+Sometime you were with other programmers and you didn't can understand some words they said?
 This repository contains the most frequently technical words what a programmer can said.
 
 ## B
